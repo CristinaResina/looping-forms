@@ -43,7 +43,7 @@ h1.page-header{
  
 
  main.wrapper {
-    background-color: white;
+    background-color: #FFF8DC;
     overflow: auto;
     -moz-border-radius-bottomleft: 5px;
     -moz-border-radius-bottomright: 5px;
@@ -65,6 +65,7 @@ h2,h3 {
 a {
     color:darkcyan;
     text-decoration: none;
+    text-align: central;
 }
 
 a:hover {
